@@ -1,0 +1,1 @@
+QT5_PATH = $ENV{QTDIR}
